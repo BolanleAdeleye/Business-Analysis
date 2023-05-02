@@ -11,3 +11,5 @@ Develop a process map to show the communication flow on the proposed mobile app 
 Develop a prototype of the proposed business solution using Bigazi.
 
 
+
+![image](https://user-images.githubusercontent.com/122614788/235556410-4cc6c2ca-6851-4d1f-a041-78e599b11e21.png)
